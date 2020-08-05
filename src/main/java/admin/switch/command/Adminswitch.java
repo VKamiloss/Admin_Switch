@@ -49,6 +49,7 @@ public class Adminswitch implements CommandExecutor
     {
 		Map<String, Object> $_dependencies = new HashMap<>();
 
+	    	    $_dependencies.put("entity",entity);
 
 
         AdminswitchCommandExecutedProcedure.executeProcedure($_dependencies);

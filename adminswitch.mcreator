@@ -10,7 +10,12 @@
       "ids": {},
       "registry_name": "adminswitch_command_executed",
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
       }
     },
     {
