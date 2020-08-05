@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "AdminswitchCommandExecuted",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "adminswitch_command_executed",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Adminswitch",
+      "type": "command",
+      "sortid": 1,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "adminswitch"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "workspaceSettings": {
+    "modid": "adminswitch",
+    "modName": "adminswitch",
+    "version": "1.0.0",
+    "author": "kamil, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "spigot-1.16.1",
+    "modElementsPackage": "admin.switch",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

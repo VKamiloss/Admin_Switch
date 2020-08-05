@@ -1,0 +1,10 @@
+main: admin.switch.AdminswitchMod
+name: adminswitch
+version: 1.0.0
+authors: [kamil, MCreator]
+website: https://mcreator.net
+api-version: 1.16
+
+commands:
+  adminswitch:
+    permission: adminswitch.use
